@@ -38,10 +38,6 @@ We iteratively increase `h` until \( |R(z)| \geq 1 \). The final valid `h` is th
 ### 3. **Equations of Motion + RK4 Integration**
 
 - Implements the nonlinear double pendulum equations of motion.
-- Provides:
-  - `equations(t, y)`: Returns derivatives.
-  - `rk4_step(...)`: Single RK4 step.
-  - `solve_rk4(...)`: Full time integration.
 
 ---
 
