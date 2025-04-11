@@ -2,6 +2,8 @@
 
 This notebook performs an in-depth analysis of the stability and accuracy of a **double pendulum** system using symbolic math, numerical simulation, and error analysis.
 
+https://github.com/user-attachments/assets/5ca00a2f-7bfd-4518-9d63-49edeac6b6ce
+
 ---
 
 ## Objective
@@ -51,7 +53,6 @@ Because the double pendulum is chaotic and has **no analytical solution**, a **v
 
 ### 5. **Error Analysis**
 
-#### `compare_full_state_error(...)`
 - Compares simulations with various `dt` values to the reference solution.
 - Uses **cubic interpolation** to align time steps.
 - Computes **2-norm** of error at each step and plots:
