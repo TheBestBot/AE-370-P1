@@ -1,4 +1,4 @@
-# 📘 AE 370: Double Pendulum Stability and RK4 Error Analysis
+# AE 370: Double Pendulum Stability and RK4 Error Analysis
 
 This notebook performs an in-depth analysis of the stability and accuracy of a **double pendulum** system using symbolic math, numerical simulation, and error analysis.
 
@@ -77,4 +77,4 @@ Because the double pendulum is chaotic and has **no analytical solution**, a **v
 
 ---
 
-README writen by ChatGPT: [https://chatgpt.com/share/67f8b5a6-c19c-800e-bcd0-fc51b6027c56](https://chatgpt.com/share/67f8b5a6-c19c-800e-bcd0-fc51b6027c56)
+README writen by in part by ChatGPT: [https://chatgpt.com/share/67f8b5a6-c19c-800e-bcd0-fc51b6027c56](https://chatgpt.com/share/67f8b5a6-c19c-800e-bcd0-fc51b6027c56)
